@@ -32,6 +32,6 @@ print(x)
 # YOUR CODE HERE
 print(len(x))
 # Print all the values in x multiplied by 1000
-z = [n**2 for n in x]
+z = [n*1000 for n in x]
 print(z)
 # YOUR CODE HERE
