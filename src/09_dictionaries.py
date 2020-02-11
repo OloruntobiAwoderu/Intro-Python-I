@@ -47,7 +47,7 @@ waypoints.append({
 # waypoints list.
 
 # YOUR CODE HERE
-waypoints[0] = a_place
+a_place = waypoints[0] 
 a_place["name"] = "not a real place"
 a_place['lon'] = -130
 
